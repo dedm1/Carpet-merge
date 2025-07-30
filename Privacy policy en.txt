@@ -1,0 +1,97 @@
+PRIVACY POLICY
+Updated: July 30, 2025
+Version: 1.0
+
+This Policy describes the data processing in the mobile game Carpet Merge (the “Game”).
+By using the Game, you agree to this Policy. If you do not agree — do not use the Game.
+
+DEVELOPER AND CONTACT
+Developer (Controller): dedm
+Support and data requests: Discord (link available in Game settings).
+Note: a separate email channel is not used.
+
+CONSENT SCREEN AND LAUNCH
+On first launch, a screen is shown:
+“We use Yandex AppMetrica for mandatory analytics (gameplay events, performance, crashes). The Game does not work without analytics. More details — in the Privacy Policy.”
+Buttons:
+— “Agree” — continue using the Game and allow data processing under this Policy.
+— “Disagree” — exit the Game; data will not be processed, except the minimum required for showing the screen/determining region (e.g., IP for country-level geolocation).
+You can delete the Game at any time.
+
+AGE AND AUDIENCE
+The Game is not directed at children. We do not ask for or know your age. If the device/platform profile is marked as a child’s, ad personalization is disabled via platform tools.
+
+1. DATA CATEGORIES
+1.1. Data processed by us:
+• Cloud saves: game progress and settings tied to your anonymous profile/account.
+• Purchases: transaction status via Google Play Billing (no payment details).
+• User content: nickname and in-game messages (if you use such features).
+We do not collect full name, address, phone, or email.
+
+1.2. Data automatically processed by third-party SDKs in the Game:
+• Device/app identifiers: ad ID (ADID/AAID), internal SDK install ID, device model, OS version, language/region, IP address (for approximate region and abuse protection), Game version.
+• Usage data: screen and gameplay events (sessions, taps, progress), economy (currency balance, spendings, rewards), rewarded ad view events.
+• Diagnostics: crash reports, error codes, stack traces, performance metrics.
+Note: we do not transmit the ad ID manually — it may be handled directly by the SDKs included in the Game.
+
+2. PURPOSES OF PROCESSING
+• Game functionality (progress, economy, cloud saves).
+• Quality and balance analytics (a mandatory part of Game operation).
+• Diagnostics, bug fixing, and security.
+• Showing rewarded ads initiated by the user.
+• Abuse prevention and compliance with platform/legal requirements.
+
+3. ADS
+• Types: only rewarded ads. No banners or interstitials. Playback is user-initiated.
+• Mediation and serving: via AppLovin MAX (see AppLovin MAX website for current partners and policies).
+• Personalization: may be applied by mediation partners per their policies and your device settings (e.g., ad ID reset/removal).
+• Reward: given only upon voluntary full viewing and correct completion; confirmed by SDK event “reward granted”.
+
+4. THIRD-PARTY PROVIDERS (SDKs/SERVICES)
+• Analytics and crashes — Yandex AppMetrica: gameplay events/metrics/crashes, approximate region via IP.
+• Ads/mediation — AppLovin MAX: rewarded ad serving, impression/click tracking; may process ad ID and device data.
+• Purchases — Google Play Billing: purchase/refund statuses; we do not receive payment credentials.
+Note: SDKs and configurations may be updated. Significant changes will be shown in the Game/Discord. See partner privacy policies on their websites.
+
+5. LEGAL BASIS
+Processing is based on: (i) contract performance (Game functionality), (ii) legitimate interest of the developer (quality analytics, security, fraud prevention), (iii) consent — if required by applicable laws in your jurisdiction.
+
+6. DATA RETENTION
+• Cloud saves — while your profile exists; may be retained for up to 30 days after deletion for technical finalization/backups.
+• Diagnostics — up to 90 days (longer if needed for security/abuse prevention).
+• Analytics/ad metadata — per provider policies (usually up to 24 months), followed by aggregated/anonymized analytics.
+• Legally required data (e.g., transaction info) — as per applicable laws/audit requirements.
+After retention periods, data is deleted or anonymized.
+
+7. ACCOUNT, SYNC, AND DELETION
+• Progress sync possible via Google Play Games and/or Discord login.
+• Cloud/account deletion: “Settings → Sync” or request via Discord. We usually delete/anonymize data within 30 days.
+• Unlink Discord/Google account via “Settings → Sync”.
+• Local data (cache/settings) is deleted when you remove the Game from your device.
+
+8. USER RIGHTS
+Scope and exercise of rights depend on your jurisdiction. For access/correction/deletion/restriction/portability requests and other inquiries, contact us via Discord. We review requests within a reasonable time.
+
+9. CROSS-BORDER TRANSFERS AND DATA LOCATION
+Game and cloud data are stored on servers physically located in the Republic of Kazakhstan. For users from other countries, this constitutes a cross-border data transfer. We apply technical safeguards (e.g., transmission encryption, access restrictions).
+In jurisdictions where required, standard contractual clauses (SCCs) or similar protections may be used for data transfers to providers.
+
+10. SECURITY
+Data transmission is encrypted (e.g., TLS/SSL). Access is restricted based on the principle of least privilege. However, no system is completely secure.
+
+11. RANDOM REWARDS (GACHA/LOOT)
+Drop rates depend on the source/location of the reward and may vary. Probability tables are disclosed in advance and available before spending in-game currency.
+
+12. PURCHASES AND REFUNDS
+Purchases are processed via Google Play. Refunds and chargebacks follow Google Play policies:  
+https://support.google.com/googleplay/answer/2479637  
+We do not receive actual payment details.
+
+13. POLICY CHANGES
+We may update this Policy. Significant changes will be shown in the Game and/or on Discord. The effective date is indicated above.
+
+14. REGIONAL RESTRICTIONS
+The Game may be unavailable in certain regions for legal reasons. We reserve the right to restrict access by IP from such regions and not process data beyond what’s needed to determine the region.
+
+15. GOVERNING LAW
+The Game, its infrastructure, and data processing are governed by the laws of the Republic of Kazakhstan. We strive to consider other applicable jurisdictions’ requirements to the extent reasonable, but in case of conflict, the laws of Kazakhstan take precedence.

@@ -1,97 +1,97 @@
 PRIVACY POLICY
-Updated: July 30, 2025
-Version: 1.0
+Updated: July 31, 2025
+Version: 1.1
+Application: Carpet merge
+Copyright Holder / Developer: dedm
+Contact: Official Discord channel (link available in the Game settings). A separate email channel is not used or maintained.
 
-This Policy describes the data processing in the mobile game Carpet Merge (the “Game”).
-By using the Game, you agree to this Policy. If you do not agree — do not use the Game.
+This Policy describes data processing in the mobile game Carpet merge ("Game").
+By using the Game, you agree to this Policy.
 
-DEVELOPER AND CONTACT
-Developer (Controller): dedm
-Support and data requests: Discord (link available in Game settings).
-Note: a separate email channel is not used.
+1. GENERAL PROVISIONS
+1.1. This Policy explains what data the Game processes, for what purposes, and on what legal grounds.
+1.2. The Game is available in all countries and regions where its use is not prohibited by local law. You are solely responsible for complying with the laws of your jurisdiction.
+1.3. We offer two modes: (a) Standard — with network features and anonymized analytics; (b) Limited (offline) — without analytics or third-party SDKs. See section 4 for mode selection.
 
-CONSENT SCREEN AND LAUNCH
-On first launch, a screen is shown:
-“We use Yandex AppMetrica for mandatory analytics (gameplay events, performance, crashes). The Game does not work without analytics. More details — in the Privacy Policy.”
-Buttons:
-— “Agree” — continue using the Game and allow data processing under this Policy.
-— “Disagree” — exit the Game; data will not be processed, except the minimum required for showing the screen/determining region (e.g., IP for country-level geolocation).
-You can delete the Game at any time.
+2. DATA CATEGORIES
+2.1. Local data (stored on device): game progress and settings, local caches. In Limited mode, this data is not transmitted.
+2.2. Data processed by us: internal game account ID (if available), cloud saves and related server-side events (anti-fraud, security), technical metadata (client version, timestamps, error codes). This data is not shared with third parties for their own use.
+2.3. Data that may be processed by third-party services (only in Standard mode): anonymized gameplay analytics and crash diagnostics (e.g., via Yandex AppMetrica), as well as ad impression and monetization metrics (via AppLovin MAX, if ads are enabled in your Game version).
+2.4. We do not transmit your personal identifiers (e.g., full name, email, phone number, payment info, internal account ID) to third-party analytics services (including Yandex AppMetrica). All analytics shared is anonymized.
+2.5. Ad providers connected via AppLovin MAX may automatically process technical device and network parameters, such as Advertising ID/AAID (Android) or IDFA (iOS), IP address, and user-agent — as needed for ad delivery, fraud prevention, and reward verification. We do not transmit our internal account ID to them or link it with ad provider data.
+2.6. Geolocation: precise geolocation is not requested. Third-party services may determine approximate region by IP for anti-fraud and statistics.
+2.7. We do not sell users’ personal data as defined under the CCPA/CPRA.
 
-AGE AND AUDIENCE
-The Game is not directed at children. We do not ask for or know your age. If the device/platform profile is marked as a child’s, ad personalization is disabled via platform tools.
+3. LEGAL GROUNDS
+We rely on the following legal bases (depending on the function and your jurisdiction):
+— Performance of a contract (providing Game features, sync/cloud saves, ad rewards).
+— Legitimate interest (anonymized analytics, diagnostics, fraud prevention, security).
+— Consent (ad personalization/measurement and access to ad ID on iOS via ATT; on Android — when required by store/OS policies).
+— Legal obligation (retaining fiscal data for store payments and platform requirements).
 
-1. DATA CATEGORIES
-1.1. Data processed by us:
-• Cloud saves: game progress and settings tied to your anonymous profile/account.
-• Purchases: transaction status via Google Play Billing (no payment details).
-• User content: nickname and in-game messages (if you use such features).
-We do not collect full name, address, phone, or email.
+4. MODES AND CONSENT
+4.1. On first launch, you choose:
+— Standard (recommended): you consent to data processing under this Policy; network features are available (cloud, rewarded ads if any), along with anonymized analytics/diagnostics.
+— Limited (offline): third-party SDKs are not initialized, no data is shared; cloud saves, ads/rewards, social logins, and crash reports are unavailable. Game runs locally.
+4.2. Mode switching is available in settings; activating Standard mode may require a restart.
+4.3. If you do not agree with this Policy, use the Limited (offline) mode — no data is transmitted, network features are disabled.
+4.4. iOS (ATT): access to IDFA and any ad personalization is allowed only after explicit user consent in the system dialog. If denied, personalization is disabled; only limited measurement via SKAdNetwork is allowed. We do not engage in cross-app tracking without consent.
+4.5. Android: you can limit ad personalization and reset your ad ID in device settings. In Limited mode, no ads are shown.
 
-1.2. Data automatically processed by third-party SDKs in the Game:
-• Device/app identifiers: ad ID (ADID/AAID), internal SDK install ID, device model, OS version, language/region, IP address (for approximate region and abuse protection), Game version.
-• Usage data: screen and gameplay events (sessions, taps, progress), economy (currency balance, spendings, rewards), rewarded ad view events.
-• Diagnostics: crash reports, error codes, stack traces, performance metrics.
-Note: we do not transmit the ad ID manually — it may be handled directly by the SDKs included in the Game.
+5. ADVERTISING
+5.1. Ad types: interstitial and rewarded ("watch ads for bonus"). Ads are shown only in Standard mode.
+5.2. Personalization: off by default. If you enable personalization in settings, the consent signal is passed to AppLovin MAX.
+5.3. Identifiers: we do not share our internal account ID with ad networks. Ad providers via AppLovin MAX may use IDFA/AAID (if available and permitted), IP, and other technical data for display, measurement, and anti-fraud.
+5.4. Control: (a) disable ads by selecting Limited mode; (b) restrict personalization at OS level (Android/iOS).
+5.5. Children: The Game is not intended for users under 13. On child profiles, ad personalization is disabled by platform controls.
+5.6. Once an in-game purchase has been completed and the content has been delivered, refunds are not available, except as explicitly allowed by Google Play’s refund policy. We do not issue refunds for used items, bonuses, or virtual currency — even if the Game is deleted or access to your account is lost.
 
-2. PURPOSES OF PROCESSING
-• Game functionality (progress, economy, cloud saves).
-• Quality and balance analytics (a mandatory part of Game operation).
-• Diagnostics, bug fixing, and security.
-• Showing rewarded ads initiated by the user.
-• Abuse prevention and compliance with platform/legal requirements.
+6. THIRD-PARTY PROVIDERS
+Below are the main providers that may process data **only in Standard mode**. The list may vary by region/version:
+— **Yandex AppMetrica** (analytics/diagnostics; without our user IDs). Policy: https://appmetrica.yandex.com/legal/privacy-policy/
+— **Google Play / Google Play Services** (licensing, updates, delivery, Play Games/login, store). Policy: https://policies.google.com/privacy
+— **Google Play Billing / Google Play Store** (purchases/payments, transaction verification). Policy: https://payments.google.com/termsOfService?hl=ru
+— **AppLovin MAX** (ads/mediation, measurement, anti-fraud). Policy: https://www.applovin.com/privacy/ • Partners/mediation: https://www.applovin.com/partners/ (list varies by region/config).
+— **Discord** (community/contact channel if accessed via Game links). Policy: https://discord.com/privacy
+We do not transmit our internal account ID to these providers and do not merge it with their data. Advertising uses their own identifiers (IDFA/AAID, etc.) in line with OS/consent settings.
 
-3. ADS
-• Types: only rewarded ads. No banners or interstitials. Playback is user-initiated.
-• Mediation and serving: via AppLovin MAX (see AppLovin MAX website for current partners and policies).
-• Personalization: may be applied by mediation partners per their policies and your device settings (e.g., ad ID reset/removal).
-• Reward: given only upon voluntary full viewing and correct completion; confirmed by SDK event “reward granted”.
-
-4. THIRD-PARTY PROVIDERS (SDKs/SERVICES)
-• Analytics and crashes — Yandex AppMetrica: gameplay events/metrics/crashes, approximate region via IP.
-• Ads/mediation — AppLovin MAX: rewarded ad serving, impression/click tracking; may process ad ID and device data.
-• Purchases — Google Play Billing: purchase/refund statuses; we do not receive payment credentials.
-Note: SDKs and configurations may be updated. Significant changes will be shown in the Game/Discord. See partner privacy policies on their websites.
-
-5. LEGAL BASIS
-Processing is based on: (i) contract performance (Game functionality), (ii) legitimate interest of the developer (quality analytics, security, fraud prevention), (iii) consent — if required by applicable laws in your jurisdiction.
-
-6. DATA RETENTION
-• Cloud saves — while your profile exists; may be retained for up to 30 days after deletion for technical finalization/backups.
-• Diagnostics — up to 90 days (longer if needed for security/abuse prevention).
-• Analytics/ad metadata — per provider policies (usually up to 24 months), followed by aggregated/anonymized analytics.
-• Legally required data (e.g., transaction info) — as per applicable laws/audit requirements.
-After retention periods, data is deleted or anonymized.
-
-7. ACCOUNT, SYNC, AND DELETION
-• Progress sync possible via Google Play Games and/or Discord login.
-• Cloud/account deletion: “Settings → Sync” or request via Discord. We usually delete/anonymize data within 30 days.
-• Unlink Discord/Google account via “Settings → Sync”.
-• Local data (cache/settings) is deleted when you remove the Game from your device.
+7. DATA RETENTION AND DELETION
+7.1. Cloud saves — while your game profile exists; up to 30 days after deletion for process finalization/reservation.
+7.2. Diagnostics — up to 90 days (or longer if needed for security and abuse prevention).
+7.3. Analytics/ad metadata — per provider rules (typically up to 24 months), followed by aggregated/anonymized data.
+7.4. Legally required data (e.g., transactions) — as required by law/audits.
+7.5. User deletion: local data can be deleted via Game/device settings. Cloud saves/account deletion is available in-game (if applicable).
+7.6. Anonymized data at third-party services is not linked to specific users and cannot be deleted individually; deletion requests do not apply.
+7.7. Upon expiry, data is deleted or anonymized.
 
 8. USER RIGHTS
-Scope and exercise of rights depend on your jurisdiction. For access/correction/deletion/restriction/portability requests and other inquiries, contact us via Discord. We review requests within a reasonable time.
+8.1. You may: choose mode (Standard/Offline), disable ad personalization, delete local data, delete account/cloud saves (if available).
+8.2. Since we do not process identifiable personal data at third-party providers, access/correction/deletion rights do not generally apply to their anonymized analytics. Use the in-game delete function for internal data.
+8.3. For privacy inquiries, use the official Discord channel. Email support is not provided.
 
-9. CROSS-BORDER TRANSFERS AND DATA LOCATION
-Game and cloud data are stored on servers physically located in the Republic of Kazakhstan. For users from other countries, this constitutes a cross-border data transfer. We apply technical safeguards (e.g., transmission encryption, access restrictions).
-In jurisdictions where required, standard contractual clauses (SCCs) or similar protections may be used for data transfers to providers.
+9. INTERNATIONAL TRANSFERS AND SECURITY
+9.1. Our servers and/or providers may process data outside your country, including Kazakhstan. We apply standard technical and organizational safeguards.
+9.2. We do not engage in cross-app tracking (as defined by Apple ATT) and do not combine data from other apps for targeting without your consent.
 
-10. SECURITY
-Data transmission is encrypted (e.g., TLS/SSL). Access is restricted based on the principle of least privilege. However, no system is completely secure.
+10. CHILDREN
+10.1. The Game is intended for users 13+. We do not ask for or verify age, nor do we intentionally collect data from children. On child device profiles, ad personalization is disabled via platform tools.
 
-11. RANDOM REWARDS (GACHA/LOOT)
-Drop rates depend on the source/location of the reward and may vary. Probability tables are disclosed in advance and available before spending in-game currency.
+11. POLICY CHANGES
+11.1. We may update this Policy. The current version date is shown above. Significant changes may be announced in the Game and/or on Discord.
+11.2. Continued use of the Game indicates your agreement to the updates, based on the selected mode.
 
-12. PURCHASES AND REFUNDS
-Purchases are processed via Google Play. Refunds and chargebacks follow Google Play policies:  
-https://support.google.com/googleplay/answer/2479637  
-We do not receive actual payment details.
+12. CONTACT
+The only contact channel is the official Discord channel (link in Game settings). No user email support is provided.
 
-13. POLICY CHANGES
-We may update this Policy. Significant changes will be shown in the Game and/or on Discord. The effective date is indicated above.
+13. LANGUAGE
+The original Policy is in Russian; in case of discrepancies, the Russian version takes precedence.
 
-14. REGIONAL RESTRICTIONS
-The Game may be unavailable in certain regions for legal reasons. We reserve the right to restrict access by IP from such regions and not process data beyond what’s needed to determine the region.
+14. CROSS-BORDER TRANSFERS AND DATA LOCATION
+Game data and cloud saves are stored on servers physically located in the Republic of Kazakhstan. For users from other countries, this constitutes cross-border data transfer. We apply technical protection measures (in-transit encryption, access restriction).
+Where required by jurisdiction, standard contractual clauses (SCCs) and other safeguards may be used for data transfers to providers.
 
-15. GOVERNING LAW
-The Game, its infrastructure, and data processing are governed by the laws of the Republic of Kazakhstan. We strive to consider other applicable jurisdictions’ requirements to the extent reasonable, but in case of conflict, the laws of Kazakhstan take precedence.
+15. ABSENCE OF ILLEGAL OR DANGEROUS CONTENT
+15.1. The Game does not contain:
+— sexual, shocking, violent, offensive, pornographic, or otherwise illegal content;
+— content that violates applicable laws, including those related to the protection of children, privacy, intellectual property, or public order.
+15.2. The Game is not intended to process financial, medical, legal, or other sensitive information and is not a financial or payment service.

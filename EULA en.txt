@@ -1,80 +1,90 @@
 END USER LICENSE AGREEMENT (EULA)
-Updated: July 30, 2025
-Version: 1.0
+Updated: July 31, 2025
+Version: 1.1
 Copyright Holder / Developer: dedm
-Privacy Policy: [link]
+Privacy Policy: https://github.com/dedm1/Carpet-merge/blob/main/Privacy%20policy%20ru.txt
 
 1. TERMS AND ACCEPTANCE
-1.1. This End User License Agreement (hereinafter the “Terms” or the “Agreement”) governs the use of the mobile game Carpet Merge (the “Game”).
-1.2. By installing, launching, or otherwise using the Game, you confirm that you have read, understood, and accepted the Terms. If you do not agree to the Terms — do not install or delete the Game.
-1.3. If your country's laws require consent from a legal guardian, installing and/or using the Game means such consent has been obtained.
-1.4. “We,” “Us,” or “Our” means the developer dedm. “You,” “Your” means the user of the Game. “Platform” refers to the relevant app store and associated services (e.g., Google Play).
+1.1. This End User License Agreement ("Terms", "Agreement") governs your use of the mobile game Carpet merge ("Game").
+1.2. By installing, launching, or otherwise using the Game, you confirm that you have read, understood, and accepted these Terms. If you do not agree — you may use the Game in offline mode, in which no data will be transmitted and online features will be unavailable.
+1.3. If your country’s laws require consent from a legal guardian, installation and/or use of the Game implies such consent has been obtained.
+1.4. The terms “We”, “Us”, “Our” refer to the developer dedm. The terms “You”, “Your” refer to the user of the Game. “Platform” refers to the respective app store and associated services (e.g., Google Play).
 
 2. TERRITORY AND AGE
-2.1. The minimum age to use the Game is 13 years, or a higher age required by your local laws.
-2.2. The Game is not available in the State of California (USA). If you are located in or are a resident of California, do not accept the Terms and/or use the Game. We may technically block access and terminate service in such jurisdictions.
-2.3. We may restrict access to the Game in specific countries/regions for technical and/or legal reasons.
+2.1. Minimum age to use the Game is 13, or higher if required by your jurisdiction.
+2.2. The Game is available in all countries and regions where its use is not prohibited by local law. You are solely responsible for complying with the laws of your jurisdiction.
+2.3. We may temporarily restrict access to the Game for technical reasons (e.g., updates, outages, security).
 
 3. LICENSE AND RIGHTS
-3.1. You are granted a limited, non-exclusive, non-transferable, revocable license to install and use the Game on compatible devices solely for personal, non-commercial use.
-3.2. It is prohibited to:
-— bypass technical protection measures, modify, decompile, or disassemble the Game (except as explicitly permitted by mandatory law);
-— use cheats, bots, emulators, third-party scripts; interfere with the economy/balance;
-— sell, rent, or transfer the account or access to third parties;
+3.1. You are granted a limited, non-exclusive, non-transferable, revocable license to install and use the Game on compatible devices for personal, non-commercial purposes only.
+3.2. You may not:
+— bypass technical protection measures, modify, decompile, or disassemble the Game (except as permitted by law);
+— use cheats, bots, emulators, third-party scripts; interfere with the game economy/balance;
+— sell, rent, or transfer your account or access to third parties;
 — use the Game unlawfully or in a way that harms us, other users, or third parties.
-3.3. The Game is provided “as is.” Content, balance, mechanics, features, and availability may change without prior notice.
-3.4. The Game may include random reward elements (Gacha), governed by clause 5.5 of this Agreement.
+3.3. The Game is provided "as is". Content, balance, mechanics, features, and availability may change without notice.
+3.4. The Game may include elements of random rewards (Gacha), governed by Section 5.5 of this Agreement.
 
 4. ACCOUNTS AND ACCESS
 4.1. You are responsible for the security of your device and third-party accounts (e.g., Google/Discord) used for login and/or sync.
-4.2. We may limit, suspend, or terminate access to the Game (including game accounts) at our discretion, with or without prior notice.
-4.3. Grounds for such action include, but are not limited to: fraud, hacking, use of unauthorized software, disruption of balance/economy, legal violations, security threats, toxic behavior, abuse of refunds/chargebacks. We may request identity and/or payment confirmation.
-4.4. For access-related issues and bans, use the official Discord community channel (link available in Game settings). We typically respond within 10 business days.
+4.2. We may temporarily or permanently restrict, suspend, or terminate access to the Game (including your game account) at our discretion, with or without notice.
+4.3. Grounds for restriction include but are not limited to: fraud, hacking, use of third-party software, economic manipulation, legal violations, security threats, toxic behavior, refund/chargeback abuse. We may request identity and/or payment verification.
+4.4. Appeals for bans and access issues should be directed to the official community Discord channel (link available in Game settings). We usually respond within 10 business days.
 
-5. PURCHASES, ITEMS AND ADS
-5.1. Purchases are made via Google Play; refunds are governed by Google Play policies: https://support.google.com/googleplay/answer/2479637
-5.2. In-game items, bonuses, currency, and progress have no monetary value, are not your property, and may be changed, restricted, or removed by us.
+5. PURCHASES, ITEMS, AND ADS
+5.1. Purchases are made through Google Play; refunds are governed by Google Play’s policies: https://support.google.com/googleplay/answer/2479637
+5.2. In-game items, bonuses, currency, and progress have no monetary value, are not your property, and may be changed, limited, or removed by us.
 5.3. Ad rewards, events, and promotions are time-limited and not guaranteed.
-5.4. Rewards for watching ads are granted only upon full voluntary viewing and proper SDK “reward granted” event confirmation.
-5.5. Some in-game rewards are granted randomly (Gacha/loot box mechanics). Drop rates are pre-defined, may vary depending on the source, and are shown before spending in-game currency. These actions are voluntary, and spent currency is non-refundable. Rewards have no cash value and cannot be traded outside the Game.
+5.4. Ad rewards are granted only upon voluntary full viewing and successful confirmation via the "reward granted" SDK event.
+5.5. Some in-game rewards are provided randomly (Gacha/loot box mechanics). Drop rates are predetermined, may vary by source, and are displayed before spending in-game currency. All such actions are voluntary, and the currency used is non-refundable. Rewards have no cash value and cannot be exchanged outside the Game.
 
 6. USAGE MODES AND DATA PROCESSING
-6.1. The Game may use third-party SDKs (including but not limited to Yandex AppMetrica) for gameplay analytics, performance, crash diagnostics, and abuse prevention. Full details are in the Privacy Policy.
-6.2. On first launch, you choose a usage mode:
-— Standard (recommended): you consent to data processing per the Privacy Policy; all online features are available, including cloud saves/progress transfer, ad display and rewards, login/sync via Google/Discord, social features, and automatic crash reporting.
-— Limited (no analytics): you decline analytics and related online integrations. This disables features requiring network SDKs, including: cloud saves/progress transfer, ad display and rewards, login/sync via Google/Discord, social features, crash reporting, and other online-dependent features. Core offline gameplay remains locally available. Local progress may be permanently lost upon Game deletion.
-6.3. You can switch modes in Game settings; switching to Standard may require a restart.
-6.4. In Limited mode, analytics and ad SDKs are not initialized, and data is not transferred to third parties under our control.
+6.1. The Game may use third-party SDKs (including but not limited to Yandex AppMetrica) for analytics, performance, crash diagnostics, and abuse prevention. Full details are in the Privacy Policy.
+6.2. Upon first launch, you choose a usage mode:
+— Standard (recommended): you consent to data processing per the Privacy Policy; all online features are enabled, including cloud saves/progress transfer, ad display and rewards, login/sync via Google/Discord, social features, crash reporting.
+— Limited (offline): you decline analytics and related network integrations. Features requiring online SDKs are disabled, including: cloud saves and progress transfer; ad display and rewards; Google/Discord login/sync and social features; crash reports; other network-dependent functions. Core offline gameplay remains available. Local progress may be lost if the Game is deleted.
+6.3. You can switch modes in the Game settings; switching to Standard may require a restart.
+6.4. In Limited mode, analytics and ad SDKs are not initialized and no data is sent to third parties, to the extent of our control.
+6.5. We do not transmit to third parties (including Yandex AppMetrica) any data that directly identifies you (e.g., full name, email, phone number, internal account ID, payment info). Analytics data is anonymized and contains no personal identifiers.
+6.6. Personal game account identifiers (our internal ID, linked nickname/contact if provided) are processed only by us and not shared with third parties. We do not correlate these with data processed by third-party SDKs.
+6.7. If you click "Disagree" on the consent screen, the Game launches in offline mode (Limited): third-party SDKs are not initialized, no data is transmitted, and only local features are available.
 
-7. UPDATES AND SERVICE CHANGES
-7.1. The Game may automatically download and install updates, patches, and content changes.
-7.2. We may modify, suspend, or terminate Game availability (in whole or part) at any time.
+7. DATA RETENTION PERIODS
+7.1. Cloud saves — while your profile exists; may be retained up to 30 days after deletion for technical or backup reasons.
+7.2. Diagnostics — up to 90 days (longer if needed for security/abuse prevention).
+7.3. Analytics/ad metadata — per provider policies (typically up to 24 months), followed by aggregated/anonymized storage.
+7.4. Legally required data (e.g., transaction records) — retained as per law/audit requirements.
+7.5. Upon expiry, data is deleted or anonymized.
 
-8. LIMITATION OF LIABILITY
-8.1. The Game is provided without any warranties, express or implied, to the extent permitted by law.
-8.2. To the extent permitted by law, we are not liable for indirect, incidental, punitive, or special damages, or for data/profit loss resulting from use or inability to use the Game.
-8.3. Nothing in the Terms limits or excludes your rights as a consumer that cannot be waived by law.
+8. UPDATES AND SERVICE CHANGES
+8.1. The Game may automatically download and install updates, patches, and content changes.
+8.2. We may modify, suspend, or discontinue the Game (in whole or in part) at any time.
 
-9. PRIVACY POLICY
-9.1. Data processing is governed by a separate Privacy Policy. By continuing to use the Game, you agree to its applicable terms based on your selected mode.
+9. DISCLAIMER OF LIABILITY
+9.1. The Game is provided without warranties of any kind, to the extent permitted by applicable law.
+9.2. To the extent permitted by law, we are not liable for indirect, incidental, punitive, or special damages, or for data or profit loss due to use or inability to use the Game.
+9.3. Nothing in these Terms limits or excludes your legal consumer rights that cannot be restricted by law.
 
-10. CHANGES TO TERMS
-10.1. We may periodically update the Terms. The effective date is shown at the top.
-10.2. We may notify you of material changes via the Game and/or Discord. Continuing to use the Game after changes take effect indicates your acceptance.
+10. PRIVACY POLICY
+10.1. Data processing is governed by a separate Privacy Policy (link above). By continuing to use the Game, you agree to the relevant terms based on your selected mode.
 
-11. GOVERNING LAW AND DISPUTES
-11.1. The Terms are governed by the laws of the Republic of Kazakhstan.
-11.2. Disputes shall be resolved in the courts at the Developer’s location, unless otherwise mandated by applicable law.
-11.3. Complaint procedure: describe your dispute in our official Discord channel (link in Game settings).
+11. CHANGES TO TERMS
+11.1. We may periodically update these Terms. The current version date is shown at the top.
+11.2. We may notify you of significant changes via the Game and/or Discord. Continued use of the Game after changes take effect constitutes acceptance.
 
-12. TERM AND TERMINATION
-12.1. These Terms remain in effect from the moment you accept them until terminated by either party.
-12.2. Upon termination, you must delete the Game from your devices. Sections that by nature continue (including but not limited to sections 5, 8, 11, 12, and 13) remain in effect.
+12. GOVERNING LAW AND DISPUTES
+12.1. These Terms are governed by the laws of the Republic of Kazakhstan.
+12.2. Disputes shall be resolved in the courts where the Developer is located, unless otherwise required by law.
+12.3. Dispute resolution process: send a description of your dispute to our official Discord channel (link in Game settings).
 
-13. MISCELLANEOUS
-13.1. If any provision is found invalid, this does not affect the validity of the rest.
-13.2. We may assign our rights and/or obligations under these Terms to a third party by notifying you. You may not assign your rights and/or obligations without our prior consent.
-13.3. Notifications may be delivered via the Game, Discord, or other reasonable means.
-13.4. These Terms constitute the entire agreement regarding the Game and supersede any prior agreements on the subject.
-13.5. The original Terms are in Russian; in case of translation, the Russian version takes precedence.
-13.6. Contact: the only official contact channel is the Discord community (link available in Game settings). No separate email channel is used.
+13. TERM AND TERMINATION
+13.1. These Terms are effective upon your acceptance and remain in effect until terminated by you or us.
+13.2. Upon termination, you must delete the Game from your devices. Sections that by nature survive termination (including but not limited to Sections 5, 8, 12, and 13) remain in force.
+
+14. MISCELLANEOUS
+14.1. If any provision is found invalid, the rest remain effective.
+14.2. We may assign our rights and/or obligations under these Terms to a third party with notice. You may not assign your rights and/or obligations without our prior consent.
+14.3. Notices may be delivered within the Game, via Discord, or by other reasonable means.
+14.4. These Terms constitute the entire agreement regarding the Game and supersede all prior agreements.
+14.5. The original Terms are in Russian; in case of translation, the Russian version prevails.
+14.6. Contact: the only official communication channel is our Discord community (link available in Game settings). No separate email support is provided.

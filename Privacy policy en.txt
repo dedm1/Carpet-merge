@@ -1,9 +1,10 @@
 PRIVACY POLICY
-Updated: July 31, 2025
-Version: 1.1
+Updated: August 27, 2025
+Version: 1.2
 Application: Carpet merge
 Copyright Holder / Developer: dedm
-Contact: Official Discord channel (link available in the Game settings). A separate email channel is not used or maintained.
+Contact: Official Discord channel https://discord.gg/zNRDCmjmtN. 
+A separate email channel is not used or maintained.
 
 This Policy describes data processing in the mobile game Carpet merge ("Game").
 By using the Game, you agree to this Policy.
@@ -16,9 +17,9 @@ By using the Game, you agree to this Policy.
 2. DATA CATEGORIES
 2.1. Local data (stored on device): game progress and settings, local caches. In Limited mode, this data is not transmitted.
 2.2. Data processed by us: internal game account ID (if available), cloud saves and related server-side events (anti-fraud, security), technical metadata (client version, timestamps, error codes). This data is not shared with third parties for their own use.
-2.3. Data that may be processed by third-party services (only in Standard mode): anonymized gameplay analytics and crash diagnostics (e.g., via Yandex AppMetrica), as well as ad impression and monetization metrics (via AppLovin MAX, if ads are enabled in your Game version).
+2.3. Data that may be processed by third-party services (only in Standard mode): anonymized gameplay analytics and crash diagnostics (e.g., via Yandex AppMetrica), as well as ad impression and monetization metrics (via Appodeal, if ads are enabled in your Game version).
 2.4. We do not transmit your personal identifiers (e.g., full name, email, phone number, payment info, internal account ID) to third-party analytics services (including Yandex AppMetrica). All analytics shared is anonymized.
-2.5. Ad providers connected via AppLovin MAX may automatically process technical device and network parameters, such as Advertising ID/AAID (Android) or IDFA (iOS), IP address, and user-agent — as needed for ad delivery, fraud prevention, and reward verification. We do not transmit our internal account ID to them or link it with ad provider data.
+2.5. Ad providers connected via Appodeal may automatically process technical device and network parameters, such as Advertising ID/AAID (Android) or IDFA (iOS), IP address, and user-agent — as needed for ad delivery, fraud prevention, and reward verification. We do not transmit our internal account ID to them or link it with ad provider data.
 2.6. Geolocation: precise geolocation is not requested. Third-party services may determine approximate region by IP for anti-fraud and statistics.
 2.7. We do not sell users’ personal data as defined under the CCPA/CPRA.
 
@@ -40,8 +41,8 @@ We rely on the following legal bases (depending on the function and your jurisdi
 
 5. ADVERTISING
 5.1. Ad types: interstitial and rewarded ("watch ads for bonus"). Ads are shown only in Standard mode.
-5.2. Personalization: off by default. If you enable personalization in settings, the consent signal is passed to AppLovin MAX.
-5.3. Identifiers: we do not share our internal account ID with ad networks. Ad providers via AppLovin MAX may use IDFA/AAID (if available and permitted), IP, and other technical data for display, measurement, and anti-fraud.
+5.2. Personalization: off by default. If you enable personalization in settings, the consent signal is passed to Appodeal.
+5.3. Identifiers: we do not share our internal account ID with ad networks. Ad providers via Appodeal may use IDFA/AAID (if available and permitted), IP, and other technical data for display, measurement, and anti-fraud.
 5.4. Control: (a) disable ads by selecting Limited mode; (b) restrict personalization at OS level (Android/iOS).
 5.5. Children: The Game is not intended for users under 13. On child profiles, ad personalization is disabled by platform controls.
 5.6. Once an in-game purchase has been completed and the content has been delivered, refunds are not available, except as explicitly allowed by Google Play’s refund policy. We do not issue refunds for used items, bonuses, or virtual currency — even if the Game is deleted or access to your account is lost.
@@ -51,7 +52,7 @@ Below are the main providers that may process data **only in Standard mode**. Th
 — **Yandex AppMetrica** (analytics/diagnostics; without our user IDs). Policy: https://appmetrica.yandex.com/legal/privacy-policy/
 — **Google Play / Google Play Services** (licensing, updates, delivery, Play Games/login, store). Policy: https://policies.google.com/privacy
 — **Google Play Billing / Google Play Store** (purchases/payments, transaction verification). Policy: https://payments.google.com/termsOfService?hl=ru
-— **AppLovin MAX** (ads/mediation, measurement, anti-fraud). Policy: https://www.applovin.com/privacy/ • Partners/mediation: https://www.applovin.com/partners/ (list varies by region/config).
+— **Appodeal** (ads/mediation, measurement, anti-fraud). Policy: https://appodeal.com/privacy-policy/ • Partners/mediation: https://appodeal.com/partners/ (list varies by region/config).
 — **Discord** (community/contact channel if accessed via Game links). Policy: https://discord.com/privacy
 We do not transmit our internal account ID to these providers and do not merge it with their data. Advertising uses their own identifiers (IDFA/AAID, etc.) in line with OS/consent settings.
 
